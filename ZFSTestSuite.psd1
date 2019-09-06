@@ -92,7 +92,7 @@ PrivateData = @{
     PSData = @{
 
         # Tags applied to this module. These help with module discovery in online galleries.
-        # Tags = @()
+        Tags = @('Test Suite','ZFS','ZoW','ZFS On Windows')
 
         # A URL to the license for this module.
         # LicenseUri = ''
@@ -104,7 +104,9 @@ PrivateData = @{
         # IconUri = ''
 
         # ReleaseNotes of this module
-        # ReleaseNotes = ''
+        ReleaseNotes = '
+        0.0.1 - Initial Commit
+        '
 
     } # End of PSData hashtable
 
